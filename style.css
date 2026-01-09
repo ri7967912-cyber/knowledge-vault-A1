@@ -268,3 +268,28 @@ header{
 }
 
 
+.body{
+    width:100%;
+    max-width:1360px;
+    margin:0 auto;
+    padding:80px 20px;
+    text-align:center;
+    background-color:#F7F6F2;
+}
+
+.body h1{
+    font-size:40px;
+    font-weight:700px;
+    margin-bottom:15px;
+    color:#001931;
+}
+
+
+.body p{
+    font-size:16px;
+    line-height:1.6;
+   margin-bottom:25px;
+    color:#627382;
+}
+
+
