@@ -141,6 +141,25 @@ header{
 }
 
 
+.note-container{
+    text-align:center;
+    padding:80px 20px;
+    background-color:#ffffff;
+}
+.note-container header{
+    font-size:42px;
+    font-weight:700;
+    margin-bottom:16px;
+    color:#001931;
+}
+
+.note-container p{
+    font-size: 14px;
+    line-height:20px;
+    margin:0 auto;
+    color:#627382;
+}
+
 
 
 
